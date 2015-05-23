@@ -4,7 +4,7 @@ import android.app.Activity;
 import android.os.Bundle;
 
 /**
- * Created by G ëzim on 09.05.2015.
+ * Created by Gëzim on 09.05.2015.
  */
 public class ChooseMode extends Activity {
     @Override

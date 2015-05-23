@@ -56,7 +56,8 @@ public class FirstScreen extends Activity {
                             }
                         });
                     }
-                } catch (InterruptedException e) {
+                } catch
+                        (InterruptedException e) {
                 }
             }
         };
