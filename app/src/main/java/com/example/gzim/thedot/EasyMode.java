@@ -18,6 +18,7 @@ public class EasyMode extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_easy_mode);
 
+        
         buttonTheDot = new Button(this);
         buttonTheDot.setBackground(reddot);
 
